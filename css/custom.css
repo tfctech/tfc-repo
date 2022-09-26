@@ -156,3 +156,14 @@ body:not(.floating-contact-processing) .floating-contact-loader { display: none;
 .floating-contact-success #floating-contact-submitted { display: block; }
 
 
+
+.dark #header:not(.transparent-header),
+#header.dark:not(.transparent-header),
+#header.dark.sticky-header.transparent-header #header-wrap:not(.not-dark),
+#footer.dark { background-color: #131a22; }
+
+.bg-color2 {
+	background-color: #131a22!important;
+}
+
+

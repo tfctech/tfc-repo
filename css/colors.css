@@ -155,6 +155,7 @@ input.switch-toggle-flat:checked + label:after,
 	background-color: var(--themecolor) !important;
 }
 
+
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-themecolor,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-themecolor,
 .checkbox-style:checked + .checkbox-style-1-label:before,

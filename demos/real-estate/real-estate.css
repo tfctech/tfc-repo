@@ -88,7 +88,7 @@
 .dark #header:not(.transparent-header),
 #header.dark:not(.transparent-header),
 #header.dark.sticky-header.transparent-header #header-wrap:not(.not-dark),
-#footer.dark { background-color: #2C3E50; }
+#footer.dark { background-color: #131a22; }
 
 .dark #header:not(.transparent-header),
 #header.dark:not(.transparent-header) { border-bottom: 1px solid rgba(255,255,255,0.1); }
