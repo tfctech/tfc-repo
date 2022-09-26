@@ -166,4 +166,13 @@ body:not(.floating-contact-processing) .floating-contact-loader { display: none;
 	background-color: #131a22!important;
 }
 
+.error405 {
+	display: block;
+	font-size: 8vw;
+	font-weight: 400;
+	color: #DDD;
+	line-height: 2;
+	letter-spacing: 4px;
+}
+
 
